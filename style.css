@@ -183,7 +183,7 @@ li span {
   }
 
   .input-container {
-    top: unset;
+    top: 3px;
   }
 
   .countdown {
