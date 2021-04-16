@@ -160,14 +160,12 @@ li span {
 
 }
 
-
-/* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
   .video-background {
     height: 100vh;
     width: 100vw;
   }
-  
+
   video {
     object-fit: cover;
     object-position: 70%;
@@ -196,7 +194,7 @@ li span {
   }
 
   input {
-    width: 93%;
+    width: 100%;
   }
 
   h1 {
@@ -210,4 +208,5 @@ li span {
   li span {
     font-size: 40px;
   }
+
 }
