@@ -189,16 +189,16 @@ li span {
     top: 10px;
   }
 
+  h1 {
+    font-size: 20px;
+  }
+
   .form {
     width: unset;
   }
 
   input {
     width: 100%;
-  }
-
-  h1 {
-    font-size: 20px;
   }
 
   li {
